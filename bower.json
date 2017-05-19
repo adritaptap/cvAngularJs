@@ -1,0 +1,23 @@
+{
+  "name": "angularApp",
+  "homepage": "https://github.com/adritaptap/angularApp",
+  "authors": [
+    "Adrien Juhem <adrien.juhem@gmail.com>"
+  ],
+  "description": "Angular@1.6.4 project",
+  "main": "index.html",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ngCordova": "^0.1.27-alpha"
+  }
+}

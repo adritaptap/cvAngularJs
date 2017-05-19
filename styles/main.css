@@ -1,0 +1,14 @@
+footer {
+    background-color: #4F4F4F;
+    position: fixed;
+    bottom: 0;
+    padding-top:14px;
+    width: 100%;
+    font-size: 0.8em;
+    z-index: 10;
+    color: white;
+}
+
+.btn-block {
+margin-bottom:50px;
+}

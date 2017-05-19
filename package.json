@@ -1,0 +1,45 @@
+{
+  "name": "angularApp",
+  "version": "1.0.0",
+  "description": "Angular@1.6.4 project",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-resource": "^1.6.4",
+    "angular-sanitize": "^1.6.4",
+    "@uirouter/angularjs": "1.0.3",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "browserify": "^9.0.7",
+    "browserify-ngannotate": "^0.7.1",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-install": "^0.4.0",
+    "gulp-sass": "^2.0.0",
+    "gulp-ng-html2js": "^0.2.0",
+    "gulp-util": "^3.0.4",
+    "gulp-sourcemaps": "^1.5.1",
+    "gulp-webserver": "^0.9.0",
+    "gulp-cachebust": "0.0.5",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campus-digital-grenoble/A_Bandit_Rerise_Onion.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "Angular@1.6.4"
+  ],
+  "author": "adritaptap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adritaptap/angularApp/issues"
+  },
+  "homepage": "https://github.com/adritaptap/angularApp"
+}
