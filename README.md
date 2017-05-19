@@ -1,6 +1,6 @@
 #Angular project
 
-## A Angular@1.6.4 project from scratch
+## my reume build with Angular@1.6.4
 - clone the project
 - npm install
 - bower install
